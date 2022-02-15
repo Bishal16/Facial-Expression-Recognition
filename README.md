@@ -4,7 +4,7 @@ Real time facial expression recognition system. It is capatble of recognisig the
 
 - Happiness
 - Sadness
-- Aurprise
+- Surprise
 - Anger
 - Fear
 - Disgust
